@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexing>
+ <object alt="" name="影像1" object_type="graphic"/>
+ <object alt="" name="影像2" object_type="graphic"/>
+ <paragraph index="15" node_type="writer">Assignment #3</paragraph>
+ <paragraph index="16" node_type="writer">110503514 通訊二 薛卉萱</paragraph>
+ <paragraph index="17" node_type="writer">1. 編譯結果</paragraph>
+ <paragraph index="19" node_type="writer">2. 執行結果</paragraph>
+ <paragraph index="21" node_type="writer">3. 撰寫邏輯</paragraph>
+ <paragraph index="22" node_type="writer">a. 直接使用這兩個github，把它當作libaray後比較兩種程式的效能。所以一開始先看github的中example code，看code要怎麼使用。</paragraph>
+ <paragraph index="23" node_type="writer">b.. 成功encode和decode後，可以開始測試時間了，上網查ticks是要使用clock()量測時間，並利用時間差去獲得執行時間。</paragraph>
+ <paragraph index="24" node_type="writer">d. 解壓縮看壓縮效果，個別印出檔案的大小。</paragraph>
+ <paragraph index="25" node_type="writer">e. 時間上，當資料量越大arcd的執行時間越長，因為在計算freq的方式會需要用到很多乘法以及除法運算與huffman不同，huffman的freg只有單純的加法而已。但是在壓縮效果上arcd會優於huffman。</paragraph>
+</indexing>
