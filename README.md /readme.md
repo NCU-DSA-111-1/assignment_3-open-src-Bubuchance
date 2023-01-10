@@ -11,15 +11,15 @@
 
 ## output:
 
->----------------Test huffman----------------
->huffman encode = 0.000022 sec
->huffman decode = 0.000020 sec
->----------------Test ardc----------------
->ardc encode = 0.000004 sec
->ardc decode = 0.000007 sec
->----------------Compress file size----------------
->Input: 0 bytes 
->Huff_compress: 8 bytes
->Ardc_compress: 2 bytes
+>----------------Test huffman----------------  
+>huffman encode = 0.000022 sec  
+>huffman decode = 0.000020 sec  
+>----------------Test ardc----------------  
+>ardc encode = 0.000004 sec  
+>ardc decode = 0.000007 sec  
+>----------------Compress file size----------------  
+>Input: 0 bytes   
+>Huff_compress: 8 bytes  
+>Ardc_compress: 2 bytes  
 
 
